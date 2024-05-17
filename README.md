@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 
 Thanks to the following people who have contributed to this project:
 
-- **[Ameer Wajid Ali](https://github.com/ameer-w-ali)**
+- [Ameer Wajid Ali](https://github.com/ameer-w-ali)
